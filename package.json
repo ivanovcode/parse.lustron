@@ -1,0 +1,23 @@
+{
+  "name": "parse.lustron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "execute.js",
+  "dependencies": {
+    "casperjs": "^1.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/profidela/parse.lustron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/profidela/parse.lustron/issues"
+  },
+  "homepage": "https://github.com/profidela/parse.lustron#readme"
+}

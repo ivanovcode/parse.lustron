@@ -2,3 +2,7 @@ vendor/*
 .idea/*
 ~execute.php
 tools.sh
+composer.lock
+app/cache/*.html
+app/cache/*.cache
+node_modules/*
